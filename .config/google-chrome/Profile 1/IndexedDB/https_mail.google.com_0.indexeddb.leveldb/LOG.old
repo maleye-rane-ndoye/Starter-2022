@@ -1,0 +1,54 @@
+2022/09/21-14:56:40.453 1eb3 Reusing MANIFEST /home/maleyeranendoye/.config/google-chrome/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/21-14:56:40.454 1eb3 Recovering log #13
+2022/09/21-14:56:40.457 1eb3 Reusing old log /home/maleyeranendoye/.config/google-chrome/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000013.log 
+2022/09/21-14:56:49.302 1eb4 Compacting 1@1 + 1@2 files
+2022/09/21-14:56:49.310 1eb4 Generated table #16@1: 74 keys, 64658 bytes
+2022/09/21-14:56:49.310 1eb4 Compacted 1@1 + 1@2 files => 64658 bytes
+2022/09/21-14:56:49.316 1eb4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/09/21-14:56:49.316 1eb4 Delete type=2 #11
+2022/09/21-14:56:49.317 1eb4 Delete type=2 #14
+2022/09/22-00:11:55.471 3c4e Level-0 table #18: started
+2022/09/22-00:11:55.567 3c4e Level-0 table #18: 2185683 bytes OK
+2022/09/22-00:11:55.580 3c4e Delete type=0 #13
+2022/09/22-03:38:24.839 4895 Compacting 1@1 + 1@2 files
+2022/09/22-03:38:24.849 4895 Generated table #19@1: 177 keys, 299553 bytes
+2022/09/22-03:38:24.849 4895 Compacted 1@1 + 1@2 files => 299553 bytes
+2022/09/22-03:38:24.851 4895 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/09/22-03:38:24.851 4895 Delete type=2 #18
+2022/09/22-03:38:24.851 4895 Delete type=2 #16
+2022/09/22-14:59:00.830 57e2 Level-0 table #21: started
+2022/09/22-14:59:00.868 57e2 Level-0 table #21: 2231442 bytes OK
+2022/09/22-14:59:00.873 57e2 Delete type=0 #17
+2022/09/22-15:18:56.758 5a3e Compacting 1@1 + 1@2 files
+2022/09/22-15:18:56.769 5a3e Generated table #22@1: 191 keys, 361573 bytes
+2022/09/22-15:18:56.769 5a3e Compacted 1@1 + 1@2 files => 361573 bytes
+2022/09/22-15:18:56.772 5a3e compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/09/22-15:18:56.772 5a3e Delete type=2 #21
+2022/09/22-15:18:56.772 5a3e Delete type=2 #19
+2022/09/23-09:23:08.552 7668 Level-0 table #24: started
+2022/09/23-09:23:08.600 7668 Level-0 table #24: 2360626 bytes OK
+2022/09/23-09:23:08.605 7668 Delete type=0 #20
+2022/09/23-09:23:16.337 7739 Compacting 1@1 + 1@2 files
+2022/09/23-09:23:16.355 7739 Generated table #25@1: 102 keys, 99742 bytes
+2022/09/23-09:23:16.355 7739 Compacted 1@1 + 1@2 files => 99742 bytes
+2022/09/23-09:23:16.357 7739 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/09/23-10:39:49.417 7df7 Level-0 table #27: started
+2022/09/23-10:39:49.447 7df7 Level-0 table #27: 1912453 bytes OK
+2022/09/23-10:39:49.454 7df7 Delete type=2 #24
+2022/09/23-10:39:49.454 7df7 Delete type=2 #22
+2022/09/23-10:39:49.454 7df7 Delete type=0 #23
+2022/09/24-02:28:03.474 856c Compacting 1@1 + 1@2 files
+2022/09/24-02:28:03.485 856c Generated table #28@1: 134 keys, 169809 bytes
+2022/09/24-02:28:03.485 856c Compacted 1@1 + 1@2 files => 169809 bytes
+2022/09/24-02:28:03.487 856c compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/09/24-02:28:03.488 856c Delete type=2 #27
+2022/09/24-02:28:03.488 856c Delete type=2 #25
+2022/09/24-02:28:24.180 82ab Level-0 table #30: started
+2022/09/24-02:28:24.224 82ab Level-0 table #30: 2079508 bytes OK
+2022/09/24-02:28:24.230 82ab Delete type=0 #26
+2022/09/24-02:28:26.482 86c9 Compacting 1@1 + 1@2 files
+2022/09/24-02:28:26.497 86c9 Generated table #31@1: 289 keys, 444362 bytes
+2022/09/24-02:28:26.497 86c9 Compacted 1@1 + 1@2 files => 444362 bytes
+2022/09/24-02:28:26.499 86c9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/09/24-02:28:26.499 86c9 Delete type=2 #28
+2022/09/24-02:28:26.499 86c9 Delete type=2 #30

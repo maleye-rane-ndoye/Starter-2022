@@ -1,0 +1,27 @@
+2022/09/22-16:46:43.441 5fbe Reusing MANIFEST /home/maleyeranendoye/.config/google-chrome/Profile 1/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/22-16:46:43.441 5fbe Recovering log #7
+2022/09/22-16:46:43.442 5fbe Reusing old log /home/maleyeranendoye/.config/google-chrome/Profile 1/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000007.log 
+2022/09/22-16:46:43.442 5fbe Delete type=2 #5
+2022/09/22-16:46:46.284 5f7f Level-0 table #12: started
+2022/09/22-16:46:46.288 5f7f Level-0 table #12: 49380 bytes OK
+2022/09/22-16:46:46.291 5f7f Delete type=0 #7
+2022/09/22-16:46:46.292 5f7f Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/09/22-16:52:17.535 5fbf Level-0 table #14: started
+2022/09/22-16:52:17.558 5fbf Level-0 table #14: 353372 bytes OK
+2022/09/22-16:52:17.563 5fbf Delete type=0 #11
+2022/09/22-16:52:17.564 5fbf Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x0b\x00\x00\xc8\x05\x00m\x00e\x00d\x00i\x00a' @ 1536 : 1
+2022/09/22-16:52:17.564 5fbf Compacting 1@0 + 1@1 files
+2022/09/22-16:52:17.579 5fbf Generated table #15@0: 1059 keys, 36480 bytes
+2022/09/22-16:52:17.579 5fbf Compacted 1@0 + 1@1 files => 36480 bytes
+2022/09/22-16:52:17.582 5fbf compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/22-16:52:17.583 5fbf Delete type=2 #12
+2022/09/22-16:52:17.583 5fbf Delete type=2 #14
+2022/09/22-16:52:17.583 5fbf Manual compaction at level-0 from '\x00\x0b\x00\x00\xc8\x05\x00m\x00e\x00d\x00i\x00a' @ 1536 : 1 .. (end); will stop at (end)
+2022/09/22-16:52:17.584 5fbf Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0b\x00\x00\xc8\x05\x00m\x00e\x00d\x00i\x00a' @ 1536 : 1
+2022/09/22-16:52:17.584 5fbf Compacting 1@1 + 1@2 files
+2022/09/22-16:52:17.588 5fbf Generated table #16@1: 345 keys, 29543 bytes
+2022/09/22-16:52:17.588 5fbf Compacted 1@1 + 1@2 files => 29543 bytes
+2022/09/22-16:52:17.591 5fbf compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/09/22-16:52:17.591 5fbf Delete type=2 #15
+2022/09/22-16:52:17.591 5fbf Delete type=2 #9
+2022/09/22-16:52:17.591 5fbf Manual compaction at level-1 from '\x00\x0b\x00\x00\xc8\x05\x00m\x00e\x00d\x00i\x00a' @ 1536 : 1 .. (end); will stop at (end)

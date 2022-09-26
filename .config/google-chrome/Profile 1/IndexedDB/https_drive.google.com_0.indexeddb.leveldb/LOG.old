@@ -1,0 +1,12 @@
+2022/09/26-02:30:44.935 7fb Reusing MANIFEST /home/maleyeranendoye/.config/google-chrome/Profile 1/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/26-02:30:44.935 7fb Recovering log #40
+2022/09/26-02:30:44.948 7fb Reusing old log /home/maleyeranendoye/.config/google-chrome/Profile 1/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000040.log 
+2022/09/26-02:30:50.044 7fb Level-0 table #45: started
+2022/09/26-02:30:50.066 7fb Level-0 table #45: 4118374 bytes OK
+2022/09/26-02:30:50.069 7fb Delete type=0 #40
+2022/09/26-03:12:08.388 b60 Compacting 1@1 + 1@2 files
+2022/09/26-03:12:08.410 b60 Generated table #46@1: 76 keys, 118451 bytes
+2022/09/26-03:12:08.410 b60 Compacted 1@1 + 1@2 files => 118451 bytes
+2022/09/26-03:12:08.413 b60 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/09/26-03:12:08.413 b60 Delete type=2 #45
+2022/09/26-03:12:08.413 b60 Delete type=2 #42

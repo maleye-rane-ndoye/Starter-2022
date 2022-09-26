@@ -1,0 +1,6 @@
+2022/09/26-11:34:39.133 41ce Creating DB /home/maleyeranendoye/.config/google-chrome/Profile 1/IndexedDB/https_www.journaldunet.fr_0.indexeddb.leveldb since it was missing.
+2022/09/26-11:34:39.146 41ce Reusing MANIFEST /home/maleyeranendoye/.config/google-chrome/Profile 1/IndexedDB/https_www.journaldunet.fr_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/26-11:34:46.348 3fc4 Level-0 table #5: started
+2022/09/26-11:34:46.352 3fc4 Level-0 table #5: 4752 bytes OK
+2022/09/26-11:34:46.357 3fc4 Delete type=0 #3
+2022/09/26-11:34:46.357 3fc4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2022/09/22-02:55:43.829 469f Creating DB /home/maleyeranendoye/.config/google-chrome/Profile 1/IndexedDB/https_azurplus.fr_0.indexeddb.leveldb since it was missing.
+2022/09/22-02:55:43.834 469f Reusing MANIFEST /home/maleyeranendoye/.config/google-chrome/Profile 1/IndexedDB/https_azurplus.fr_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/22-03:02:17.677 473e Level-0 table #5: started
+2022/09/22-03:02:17.678 473e Level-0 table #5: 7566 bytes OK
+2022/09/22-03:02:17.681 473e Delete type=0 #3
+2022/09/22-03:02:17.681 473e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

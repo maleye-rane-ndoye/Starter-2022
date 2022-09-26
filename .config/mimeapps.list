@@ -1,0 +1,11 @@
+[Default Applications]
+text/html=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop
+
+[Added Associations]
+application/x-compressed-tar=org.gnome.gedit.desktop;
+application/vnd.ms-cab-compressed=org.gnome.gedit.desktop;
+application/x-ms-dos-executable=org.gnome.gedit.desktop;

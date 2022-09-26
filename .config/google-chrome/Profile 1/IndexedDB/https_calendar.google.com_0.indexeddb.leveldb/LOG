@@ -1,0 +1,7 @@
+2022/09/26-09:22:10.054 f73 Reusing MANIFEST /home/maleyeranendoye/.config/google-chrome/Profile 1/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/26-09:22:10.054 f73 Recovering log #3
+2022/09/26-09:22:10.054 f73 Reusing old log /home/maleyeranendoye/.config/google-chrome/Profile 1/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/000003.log 
+2022/09/26-09:22:12.080 f73 Level-0 table #5: started
+2022/09/26-09:22:12.082 f73 Level-0 table #5: 2161 bytes OK
+2022/09/26-09:22:12.084 f73 Delete type=0 #3
+2022/09/26-09:22:12.084 f73 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

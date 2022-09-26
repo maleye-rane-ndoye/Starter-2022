@@ -1,0 +1,24 @@
+2022/09/26-02:30:19.326 5 Reusing MANIFEST /home/maleyeranendoye/.config/google-chrome/Profile 1/Local Storage/leveldb/MANIFEST-000001
+2022/09/26-02:30:19.333 5 Recovering log #33
+2022/09/26-02:30:19.335 5 Reusing old log /home/maleyeranendoye/.config/google-chrome/Profile 1/Local Storage/leveldb/000033.log 
+2022/09/26-02:30:39.942 3 Level-0 table #38: started
+2022/09/26-02:30:39.950 3 Level-0 table #38: 17206 bytes OK
+2022/09/26-02:30:39.957 3 Delete type=0 #33
+2022/09/26-10:46:21.942 30 Level-0 table #40: started
+2022/09/26-10:46:21.948 30 Level-0 table #40: 16652 bytes OK
+2022/09/26-10:46:21.954 30 Delete type=0 #37
+2022/09/26-11:29:42.116 30 Level-0 table #42: started
+2022/09/26-11:29:42.135 30 Level-0 table #42: 599504 bytes OK
+2022/09/26-11:29:42.143 30 Delete type=0 #39
+2022/09/26-11:34:54.616 42 Level-0 table #44: started
+2022/09/26-11:34:54.630 42 Level-0 table #44: 71771 bytes OK
+2022/09/26-11:34:54.638 42 Delete type=0 #41
+2022/09/26-11:34:54.640 42 Compacting 4@0 + 1@1 files
+2022/09/26-11:34:54.754 42 Generated table #45@0: 524 keys, 1289455 bytes
+2022/09/26-11:34:54.754 42 Compacted 4@0 + 1@1 files => 1289455 bytes
+2022/09/26-11:34:54.758 42 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/26-11:34:54.763 42 Delete type=2 #44
+2022/09/26-11:34:54.763 42 Delete type=2 #35
+2022/09/26-11:34:54.764 42 Delete type=2 #40
+2022/09/26-11:34:54.764 42 Delete type=2 #38
+2022/09/26-11:34:54.764 42 Delete type=2 #42
